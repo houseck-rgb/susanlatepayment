@@ -1,4 +1,4 @@
-const CACHE_NAME = 'cwy-susan-v2';
+const CACHE_NAME = 'cwy-susan-v3';
 
 self.addEventListener('install', (e) => {
   self.skipWaiting();
