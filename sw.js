@@ -2,7 +2,7 @@
 // - 한 번 연 뒤에는 기기에 저장된 화면·사진으로 바로 열리고(느린 폰·느린 인터넷에서도 빠름),
 //   뒤에서 조용히 최신 파일을 받아 다음에 열 때 반영합니다.
 // - 이 CACHE_NAME 값이 바뀌면(새 버전 배포) 앱이 스스로 알아채고 새로고침합니다. index.html의 APP_VERSION과 같아야 합니다.
-const CACHE_NAME = 'cwy-susan-v43';
+const CACHE_NAME = 'cwy-susan-v47';
 const CORE = ['./', 'index.html', 'manifest.json', 'icon-192.png'];
 const CDN_HOSTS = ['www.gstatic.com', 'fonts.googleapis.com', 'fonts.gstatic.com', 'cdnjs.cloudflare.com'];
 
